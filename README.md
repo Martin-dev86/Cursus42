@@ -19,6 +19,7 @@ Programación en C · Algoritmos · Unix · Procesos · Redes · Gráficos
 | [pipex](https://github.com/Martin-dev86/Pipex) | Unix y procesos | Reproducción de pipelines mediante procesos, pipes, redirecciones y ejecución de comandos. |
 | [minishell](https://github.com/Martin-dev86/Mini-Shell) | Sistemas | Shell colaborativa con parsing, procesos, señales, redirecciones y variables de entorno. |
 | [cub3D](https://github.com/Martin-dev86/Cube-3D) | Gráficos | Motor gráfico inspirado en raycasting para construir una experiencia 3D desde C. |
+| **[ft_transcendence](https://github.com/Martin-dev86/ft_transcendence)** | Full-stack | Proyecto final: plataforma web multijugador con APIs, WebSockets, PostgreSQL, microservicios, Docker y una experiencia 3D. |
 
 ## Competencias desarrolladas
 
